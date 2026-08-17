@@ -265,6 +265,7 @@ try {
                <option value="+886">TW +886</option>
                <option value="+966">🇸🇦 +966</option>
                <option value="+971">🇦🇪 +971</option>
+               <option value="+972"> +972</option>
                <option value="+973">🇧🇭 +973</option>
                <option value="+974">🇶🇦 +974</option>
                <option value="+994">🇦🇿 +994</option>
